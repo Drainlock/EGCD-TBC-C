@@ -1,0 +1,9 @@
+## Interface: 20501
+## Title: EnemyGCD
+## Notes: Tracks enemies GCD
+## Version: 1.0
+## Author: Rdmx and Drainlock
+## DefaultState: Enabled
+## SavedVariables: EgcdDB
+
+EGCD.lua
